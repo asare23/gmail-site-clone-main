@@ -36,7 +36,6 @@ function Header() {
             <SearchIcon/>
             <input placeholder='Search mail' type='text' />
             <ArrowDropDown className='header__inputCaret' />
-
         </div>
 
         <div className='header__right'>
